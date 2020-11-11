@@ -1,4 +1,4 @@
-# Text Generation with Reformers using Plato's *The Republic*
+# Philosophical Text Generation with Reformers*
 
 ## Motivation
 
