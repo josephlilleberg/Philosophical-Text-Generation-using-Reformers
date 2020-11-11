@@ -1,4 +1,4 @@
-# Text Generation with Reformers using Plato's **The Republic** 
+# Text Generation with Reformers using Plato's *The Republic*
 
 ## Motivation
 
@@ -10,7 +10,7 @@ In this project, I downloaded **The Republic** from an online source and extract
 
 ### Sample Generation
 
-**The Republic of Plato. The man is remost highest philosophy of Herodic has been said to have recognised an ancient to the authority of Hellas. The greatest of all knowing that he doubted at Socrates and Plato, is the practicabil**
+*The Republic of Plato. The man is remost highest philosophy of Herodic has been said to have recognised an ancient to the authority of Hellas. The greatest of all knowing that he doubted at Socrates and Plato, is the practicabil*
 
 ## Final Thoughts
 
