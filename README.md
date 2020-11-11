@@ -1,4 +1,4 @@
-# Philosophical Text Generation with Reformers*
+# Philosophical Text Generation with Reformers
 
 ## Motivation
 
